@@ -1,3 +1,5 @@
-# Harvard CS50x 2024
-### This repository is used to record the learning process of CS50x
-### Contains part of the code for the problem sets
+# CS50x: CS50's Introduction to Computer Science (2024)
+### Archived
+
+## This repository contains personal solutions to CS50x assignments（Completed by Week 8）
+## Feel free for discussion!
